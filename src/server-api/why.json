@@ -1,0 +1,78 @@
+{
+    "which": [
+      {
+        "id": 1,
+        "avatar":"https://i.postimg.cc/KvhqBmHr/whichcrop.png",
+        "title": "which",
+        "list1": "is a complete logistics integration solution, providing full strategic automation through our e-proreitary platform",
+        "list2": "Our innovative logistics technology allows aggregators, customers, and buisnesses to seamlessly",
+        "list3": "Choose a partner to boost your buisness's sales and profits: "
+      }],
+      "what": [
+      {
+        "id": 2,
+        "title": "what",
+        "avatar":"https://i.postimg.cc/18295JmM/whatcrop.png",
+        "list1": "packages ()",
+        "list2": "E-commerce ",
+        "list3": "Food & beverage ",
+        "list4": "Special requests ",
+        "list5": "Warehousing & b2b distribution "
+      }],
+      "when":[
+      {
+        "id": 3,
+        "avatar":"https://i.postimg.cc/H8YmPNzW/whencrop.png",
+        "title": "when",
+        "list1": "Instant ",
+        "list2": "On-demand ",
+        "list3": "Same-day ",
+        "list4": "Scheduled for later "
+      }],
+      "where":[
+      {
+        "id": 4,
+        "avatar":"https://i.postimg.cc/kDq74VCr/wherecrop.png",
+        "title": "where",
+        "list1": "All thhrough your current location",
+        "list2": "Smart global freight forwarding solutions "
+      }],
+      "how":[
+      {
+        "id": 5,
+        "title": "how",
+        "avatar":"https://i.postimg.cc/Hc4HzmQP/howcrop.png",
+        "list1": "DMS (deleivery management system)",
+        "list2": "API integration",
+        "list3": "Logistics platform as a service",
+        "list4": "Aritificial intilligence - powered tech",
+        "img1": "https://i.postimg.cc/5jnp82bz/bikes.png",
+        "img2": "https://i.postimg.cc/0K2fhLdr/cars.png",
+        "img3": "https://i.postimg.cc/vcThhwZN/vans.png",
+        "img4": "https://i.postimg.cc/mtnw6pc2/trucks.png",
+        "img5": "https://i.postimg.cc/XZdQ5KYN/airfreight.png",
+        "img6": "https://i.postimg.cc/Jt1PykVm/seafreight.png"
+      }],
+      "who":[
+      {
+        "id": 6,
+        "title": "who",
+        "avatar":"https://i.postimg.cc/WFPT0zJk/whocrop.png",
+        "list1": "Individuals",
+        "list2": "Food & beverage",
+        "list3": "E-commerce",
+        "list4": "Buisnesses to buisnesses",
+        "list5": "Buisnesses to customers"
+      }],
+      "why":[
+      {
+        "id": 7,
+        "title": "why",
+        "avatar":"https://i.postimg.cc/cK3dKw6W/whycrop.png",
+        "list1": "Each buisness is different and requires different customized operartions",
+        "list2": "Customers satisfaction is crucial for buisenesses",
+        "list3": "Online shopping and delievery services are a real necessity in the market",
+        "list4": "Ops maximise buisnesses' resources and profitablity"
+      }
+    ]
+  }
